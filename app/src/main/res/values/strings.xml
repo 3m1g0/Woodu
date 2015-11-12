@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Woodu</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="furniture_classes">
+        <item>SOFAS</item>
+        <item>SEATING</item>
+        <item>BEDS</item>
+        <item>BEDROOMS</item>
+        <item>DINING</item>
+        <item>SHELVES</item>
+    </string-array>
+
+    <string-array name="dining_classes">
+        <item>Dining tables &amp; Chairs</item>
+        <item>Chairs</item>
+        <item>Storage &amp; Accessories</item>
+    </string-array>
+
+    <string-array name="SOFAS">
+        <item>ONE SEATER</item>
+        <item>TWO SEATER</item>
+        <item>THREE SEATER</item>
+        <item>SOFA SETS</item>
+        <item>RECLINERS</item>
+        <item>SOFA CUM BEDS</item>
+        <item>SOFA SECTIONALS</item>
+        <item>FUTONS</item>
+    </string-array>
+
+    <string-array name="SEATING">
+        <item>WING CHAIRS</item>
+        <item>ACCENT CHAIRS</item>
+        <item>ARM CHAIRS</item>
+        <item>FOLDING CHAIRS</item>
+        <item>METAL CHAIRS</item>
+        <item>SETTEES &amp; BENCHES</item>
+        <item>STOOLS</item>
+        <item>POUFFES</item>
+        <item>ROCKING CHAIRS</item>
+        <item>STACKING &amp; FOLDING CHAIRS</item>
+        <item>OFFICE CHAIRS</item>
+    </string-array>
+
+    <string-array name="BEDS">
+        <item>KING SIZE BEDS</item>
+        <item>QUEEN SIZE BEDS</item>
+        <item>SINGLE BEDS</item>
+        <item>POSTER BEDS</item>
+        <item>METAL BEDS</item>
+        <item>SOFA CUM BEDS</item>
+        <item>KIDS BEDS</item>
+    </string-array>
+
+    <string-array name="BEDROOMS">
+        <item>WARDROBES</item>
+        <item>KIDS WARDROBES</item>
+        <item>BEDSIDE TABLES</item>
+        <item>DRESSING TABLES</item>
+        <item>CHEST OF DRAWERS</item>
+        <item>BEDROOM SETS</item>
+    </string-array>
+
+    <string-array name="DINING">
+        <item>DINING SETS</item>
+        <item>DINING TABLES</item>
+        <item>DINING CHAIRS</item>
+    </string-array>
+
+    <string-array name="SHELVES">
+        <item>WALL SHELVES</item>
+        <item>CORNER SHELVES</item>
+        <item>KEY HOLDERS</item>
+    </string-array>
+    <string name="title_activity_items_list">ItemsListActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+    <string name="description">A sturdy solid wood dining table and 6 medium-back upholstered chairs
+The Arabia’s simple understated style highlights the wood grain, and fits into any style of décor
+The plush upholstered Oribi chairs provide supreme comfort
+Made of high-grade Sheesham wood
+Assembly required. Urban Ladder team will assemble the product for you at the time of delivery
+Indoor use only</string>
+
+</resources>

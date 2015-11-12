@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<in.woodu.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:elevation="4dp"
+    android:minHeight="48dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <in.woodu.widget.TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:visibility="gone" />
+
+        <in.woodu.widget.TextView
+            android:id="@+id/toolbar_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text=""
+            android:textSize="12sp"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/toolbar_woodu_logo_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/woodu_text_yellow" />
+
+    </LinearLayout>
+
+</in.woodu.widget.Toolbar>

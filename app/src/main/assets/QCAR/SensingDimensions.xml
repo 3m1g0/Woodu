@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="DINING" size="10.000000 10.000000" />
+    <ImageTarget name="SHELVES" size="10.000000 10.000000" />
+    <ImageTarget name="SEATING" size="10.000000 10.955150" />
+    <ImageTarget name="SOFAS" size="10.000000 10.000000" />
+    <ImageTarget name="Chip_seal4" size="10.000000 7.500000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.projecthalo.halo.DetailsActivity">
+
+    <item
+        android:id="@+id/action_try_now"
+        android:icon="@drawable/ic_center_focus_strong_black_24dp"
+        android:orderInCategory="101"
+        android:title="Try Now"
+        app:showAsAction="always" />
+
+</menu>
